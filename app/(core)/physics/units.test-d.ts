@@ -112,7 +112,6 @@ const _14: Kilograms = 1;
 // 3. Conversion functions must return the correct type
 // ============================================================
 
-// These should compile successfully
 const _ok1: Radians = degreesToRadians(deg);
 const _ok2: Degrees = radiansToDegrees(rad);
 const _ok3: Pixels = metersToPixels(m, scale);
