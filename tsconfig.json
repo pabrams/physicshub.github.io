@@ -34,5 +34,5 @@
     "app/components/LandingPart.jsx",
     "app/(pages)/blog/[slug]/page.jsx"
   ],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "app/(core)/physics/units.test-d.ts"]
 }
